@@ -1,8 +1,6 @@
 ![Design And Development](https://github.com/IzhanArif/IzhanArif/blob/main/Izhan%20Arif.png)
 
-# Izhan Arif
-I'm Izhan from Pakistan, and I do app development through flutter. I can convert UI designs into your live flutter app. Previously, I didn't have any interest in programming. But once I started learning it, I enjoyed it a lot. Currently, I am working on flutter language, and my goal is to learn BlockChain Development in future too.
-
+Hi, There! I Am Izhan Arif, An Intermediate Student Who Completed His Intermediate From Commerce Group At Guards Public College. I Am Currently Working As A Freelancer, As I am A Flutter Mobile App Developer. My Goals In The Future Are To Learn The Latest Technologies Of That Time As I Love To Learn New Things, And I Want To Explore The World😍😍. 
 ## Skills And Experience
 *💻 Flutter
 *💻 Front End Developer
