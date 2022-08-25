@@ -1,18 +1,31 @@
-![An Emerging Programmer](https://pbs.twimg.com/profile_banners/1424421253524463616/1661463543/600x200)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+<h1 align="center">Hi 👋, I'm Izhan Arif</h1>
+<h3 align="center">An Emerging Programmer From Pakistn</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
-### Hi there 👋,  I Am Izhan Arif
-#### An Emerging Programmer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=izhanarif&label=Profile%20views&color=0e75b6&style=flat" alt="izhanarif" /> </p>
 
-Hi, There! I Am Izhan Arif, An Emerging Programmer, Or You Can Say A New Programmer In Programming Field. At First, Programming Was Very Difficult For Me. But By The Passage Of Time When I Started Understanding With Focus, It Became Very Easier For Me.
+<p align="left"> <a href="https://twitter.com/izhanrf" target="blank"><img src="https://img.shields.io/twitter/follow/izhanrf?logo=twitter&style=for-the-badge" alt="izhanrf" /></a> </p>
 
-Skills: 👩‍💻 Coding 👩‍💻 Programming 👩‍💻 Flutter 
+- 🔭 I’m currently working on **Flutter Language**
 
-- 🔭 I’m currently working on Flutter Language 
-- 🌱 I’m currently learning HTML/CSS/JavaScript/PHP/PYTHON 
-- 📫 How to reach me: You Can Reach Me Through My Socials, That Are Provided Below. 
+- 🌱 I’m currently learning **HTML/CSS/JS/PHP/PYTHON/React Native**
 
+- 📫 How to reach me **izhanrf@gmail.com**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/IzhanArif)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/izhan-arif-8a2ab6243//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/izhan.memon.79)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/izhanarif_official//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/izhanrf)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/izhanrf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="izhanrf" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/izhan-arif-8a2ab6243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="izhan-arif-8a2ab6243" height="30" width="40" /></a>
+<a href="https://fb.com/izhan.memon.79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="izhan.memon.79" height="30" width="40" /></a>
+<a href="https://instagram.com/izhanarif_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="izhanarif_official" height="30" width="40" /></a>
+</p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=izhanarif&show_icons=true&locale=en&layout=compact" alt="izhanarif" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izhanarif&show_icons=true&locale=en" alt="izhanarif" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izhanarif&" alt="izhanarif" /></p>
