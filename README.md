@@ -1,6 +1,7 @@
+![An Emerging Programmer](https://pbs.twimg.com/profile_banners/1424421253524463616/1661463543/600x200)
+
 ### Hi there 👋,  I Am Izhan Arif
 #### An Emerging Programmer
-![An Emerging Programmer](https://pbs.twimg.com/profile_banners/1424421253524463616/1661463543/600x200)
 
 Hi, There! I Am Izhan Arif, An Emerging Programmer, Or You Can Say A New Programmer In Programming Field. At First, Programming Was Very Difficult For Me. But By The Passage Of Time When I Started Understanding With Focus, It Became Very Easier For Me.
 
